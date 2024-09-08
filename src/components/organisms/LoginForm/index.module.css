@@ -1,0 +1,31 @@
+.loginContainer {
+  background-color: rgba(255, 255, 255, 1);
+  box-shadow: 0px 0px 10px 2px #000;
+  padding: 15px;
+  border-radius: 5px;
+}
+.inputContainer {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  margin-bottom: 10px;
+}
+.labelClass {
+  font-size: 14px;
+  font-weight: 600;
+  margin-bottom: 5px;
+}
+.inputClass {
+  line-height: 2em;
+}
+.btnClass {
+  width: 100%;
+  line-height: 2em;
+  margin: 5px 0px;
+}
+.subHeading {
+  font-size: 20px;
+}
+.link {
+  cursor: pointer;
+}
